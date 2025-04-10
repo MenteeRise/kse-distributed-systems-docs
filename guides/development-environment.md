@@ -219,6 +219,14 @@ sudo apt install pgadmin4-desktop
 3. Install via GUI installer.
 4. Run → Connect to Redis.
 
+### Lens (Kubernetes GUI)
+
+**Windows / MacOS / Linux**:
+1. Go to: https://k8slens.dev/
+2. Download the installer for your OS.
+3. Run the installer.
+4. Open Lens and connect to your Kubernetes cluster.
+
 ## Course-Specific Repository Setup
 
 Refer to the [repository setup guide](repo-setup.md) for instructions on creating and configuring your course project
