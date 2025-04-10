@@ -47,7 +47,7 @@ You can choose between Visual Studio 2022 or JetBrains Rider as your primary IDE
     - .NET desktop development
     - .NET Multi-platform App UI development
 3. In the Individual components tab, ensure the following are selected:
-    - .NET 7.0 Runtime
+    - .NET 9.0 Runtime
     - Git for Windows
     - GitHub Extension for Visual Studio
 
