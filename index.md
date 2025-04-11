@@ -11,7 +11,7 @@ permalink: /
 A comprehensive course on designing, implementing, and operating distributed systems with a focus on .NET technologies.
 {: .fs-6 .fw-300 }
 
-[Get Started](syllabus/index.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started](syllabus){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/your-organization/kse-distributed-systems-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -24,11 +24,11 @@ Throughout this course, you'll learn both theoretical concepts and hands-on skil
 
 ## Quick Links
 
-- [Weekly Schedule](syllabus/weekly-schedule.md)
-- [Learning Objectives](syllabus/learning-objectives.md)
-- [Project Requirements](course-content/project/overview.md)
-- [Development Environment Setup](guides/development-environment.md)
-- [Recommended Reading](resources/reading-materials.md)
+- [Weekly Schedule](syllabus/weekly-schedule)
+- [Learning Objectives](syllabus/learning-objectives)
+- [Project Requirements](course-content/project/overview)
+- [Development Environment Setup](guides/development-environment)
+- [Recommended Reading](resources/reading-materials)
 
 ## Course Highlights
 

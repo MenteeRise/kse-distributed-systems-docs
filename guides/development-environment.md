@@ -4,7 +4,7 @@ title: Development Environment Setup
 nav_order: 1
 parent: Guides
 has_children: false
-permalink: /development-environment/
+permalink: /guides/development-environment/
 ---
 
 # Development Environment Setup
