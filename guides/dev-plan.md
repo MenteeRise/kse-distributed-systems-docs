@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Repository Setup
-nav_order: 2
+nav_order: 3
 parent: Guides
 has_children: false
 permalink: /repo-setup/
