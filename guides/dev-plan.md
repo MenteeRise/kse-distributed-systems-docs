@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Repository Setup
+title: Practical Project Development Plan
 nav_order: 3
 parent: Guides
 has_children: false
-permalink: /repo-setup/
+permalink: /dev-plan/
 ---
 
 # Practical Project Development Plan
@@ -52,9 +52,9 @@ The project will be evaluated across four checkpoints, with a total of 100 base 
 
 Additionally, teams can earn up to 40 bonus points by implementing advanced features (see Bonus Point System section).
 
-### Checkpoints
+## Checkpoints
 
-#### Checkpoint 1 (Week 3): Architecture Review
+### Checkpoint 1 (Week 3): Architecture Review
 
 **Deliverables:**
 
@@ -72,7 +72,7 @@ Additionally, teams can earn up to 40 bonus points by implementing advanced feat
 - Coherent data model supporting the domain
 - Thoughtful architectural decisions with documented rationale
 
-#### Checkpoint 2 (Week 6): Implementation Progress
+### Checkpoint 2 (Week 6): Implementation Progress
 
 **Deliverables:**
 
@@ -90,7 +90,7 @@ Additionally, teams can earn up to 40 bonus points by implementing advanced feat
 - Working demonstration of key functionality
 - Clear plan for addressing technical debt
 
-#### Checkpoint 3 (Week 10): Integration & Production
+### Checkpoint 3 (Week 10): Integration & Production
 
 **Deliverables:**
 
@@ -108,7 +108,7 @@ Additionally, teams can earn up to 40 bonus points by implementing advanced feat
 - Thorough testing approach
 - Appropriate security measures
 
-#### Checkpoint 4 (Week 12): Final Presentation
+### Checkpoint 4 (Week 12): Final Presentation
 
 **Deliverables:**
 
@@ -126,7 +126,7 @@ Additionally, teams can earn up to 40 bonus points by implementing advanced feat
 - Ability to handle technical questions
 - Overall architecture and implementation quality
 
-### Weekly Milestones
+## Weekly Milestones
 
 - **Week 1: The Distributed Awakening**
     - Form project teams of 4 students
